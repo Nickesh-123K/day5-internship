@@ -1,0 +1,45 @@
+.bg-image{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.container{
+    background-color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: center;
+}
+
+.heading{
+    color: #5752ab;
+    font-size: 35px;
+    text-align: center;
+    font-family: "Bree serif";
+    font-weight: bolder;
+}
+
+.caption{
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn1{
+    height: 40px;
+    width: 130px;
+    background-color: white;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+}
+
+.btn2{
+    color: white;
+    height: 40px;
+    width: 130px;
+    background-color: #5752ab;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+}
